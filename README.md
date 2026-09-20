@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=secretaryrard&color=0d0c0c&style=plastic&label=♡)
 
 <div align="center"> 
-  <a href="https://cartoonjax.atabook.org" target="_blank">ata</a> | rmking straw
+  <a href="https://cartoonjax.atabook.org" target="_blank">ata</a> | <a href="https://pronouns.cc/@secretaryrard" target="_blank">prns page</a> 
   
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
