@@ -1,16 +1,14 @@
-## Hi there 👋
+<div align="center"> 
 
-<!--
-**secretaryrard/secretaryrard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=secretaryrard&color=0d0c0c&style=plastic&label=♡)
 
-Here are some ideas to get you started:
+<div align="center"> 
+  <a href="https://cartoonjax.atabook.org" target="_blank">ata</a> | rmking straw
+  
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=vzgpx8tp7y9k6oz1phsz2akt7&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false">
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img width="400" height="300" alt="9a1d30ec5e57adee0c601a6e637a5838" src="https://github.com/user-attachments/assets/ca1db9fe-a4ef-4b96-88e2-8ca0a78cb472" />
